@@ -7,3 +7,9 @@ This version has breaking changes — APIs, conventions, and file structure may 
 This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
 
 <!-- END:nextjs-agent-rules -->
+
+## Basis Pengetahuan & Peta Struktur Proyek
+- Struktur lengkap, tech stack, dan pemetaan file tersimpan di [GEMINI.md](file:///c:/laragon/www/testing/GEMINI.md).
+- Asisten AI wajib merujuk langsung ke `GEMINI.md` untuk lokasi file tanpa melakukan pencarian file manual berulang.
+- Setiap pembuatan, pemindahan, atau penghapusan file di masa depan harus langsung dicatat dan diperbarui di `GEMINI.md`.
+

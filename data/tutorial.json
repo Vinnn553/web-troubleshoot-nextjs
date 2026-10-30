@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "kategori": "Operating System",
+        "judul": "Tidak bisa booting Windows",
+        "level": ["Pemula", "Sistem"],
+        "langkah": [
+            "Restart komputer dan masuk ke menu BIOS/UEFI dengan menekan F2 atau Del saat startup.",
+            "Pastikan urutan Boot Priority mengarah ke harddisk / SSD utama tempat Windows terpasang.",
+            "Jika tetap gagal, gunakan Flashdisk instalasi Windows lalu pilih opsi 'Startup Repair'.",
+            "Jalankan command prompt melalui recovery mode dan ketik 'bootrec /fixmbr' dan 'bootrec /rebuildbcd'."
+        ]
+    }
+]

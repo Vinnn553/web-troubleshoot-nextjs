@@ -9,9 +9,14 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@remixicon/react": "^4.9.0",
+    "animejs": "^4.5.0",
     "next": "16.4.3",
+    "next-auth": "^4.24.15",
+    "pg": "^8.23.1",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "remixicon": "^4.9.1"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
